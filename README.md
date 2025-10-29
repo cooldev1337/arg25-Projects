@@ -26,7 +26,7 @@ Each week, participants update their project README with progress and goals, cul
 
    `git checkout -b teamname-projectname`
 
-3. Add your folder under `projects/`.
+3. Add your folder with the `project-name/`.
 - Add a `README.md` using the `README_template.md` provided.
 - Optionally create an `assets/` folder for diagrams, screenshots, or code snippets.
 4. Commit your README (based on the template) and push to your fork.
@@ -40,8 +40,7 @@ arg25-projects/
 ├── README.md # You are here (program overview)
 ├── README_template.md # Base template for your project README
 |
-├── projects/
-|   ├── teamname-projectname/
+├── your-project/
 |   |   ├── README.md # Your project progress log
 |   |   └── assets/ # (optional) diagrams, screenshots, etc.
 |   └── ...
