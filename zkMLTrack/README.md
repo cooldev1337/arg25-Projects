@@ -53,7 +53,8 @@ Experimentation with ezkl and ezkljs web target for the frontend to generate pro
 ## Final Wrap-Up
 _After Week 3, summarize your final state: deliverables, repo links, and outcomes._
 
-- **Main Repository Link:**  
+- **Main Repository Link:** 
+https://github.com/cooldev1337/zkMLTrack
 - **Demo / Deployment Link (if any):**  
 - **Slides / Presentation (if any):**
 
